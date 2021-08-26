@@ -1,8 +1,8 @@
 * /data_creation_sorce/: contains source codes for creating data
 
-* /gibbs_dataset: contains datasets aqcuired in multiple environments
-    * /dataset_path_txt: contains paths of datasets or learning results or mutual informations for learning
-    * /realworld: contains real world dataset, which are in aqcuired in Ritsumeikan university laboratories (without location name information)
+* /gibbs_dataset/: contains datasets aqcuired in multiple environments
+    * /dataset_path_txt/: contains paths of datasets or learning results or mutual informations for learning
+    * /realworld/: contains real world dataset, which are in aqcuired in Ritsumeikan university laboratories (without location name information)
     * /sigverse/: contains virtual world (SIGVerse) dataset
     * /sigverse_subject/: contains virtual world (SIGVerse) dataset, however multiple subjects teaches location names in the sentences
 
