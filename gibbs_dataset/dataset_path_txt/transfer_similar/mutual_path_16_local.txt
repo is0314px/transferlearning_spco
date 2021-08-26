@@ -1,0 +1,7 @@
+gibbs_result/similar_result/env_num_16/per_0_iter_200
+gibbs_result/similar_result/env_num_16/per_5_iter_200
+gibbs_result/similar_result/env_num_16/per_10_iter_200
+gibbs_result/similar_result/env_num_16/per_15_iter_200
+gibbs_result/similar_result/env_num_16/per_20_iter_200
+gibbs_result/similar_result/env_num_16/per_25_iter_200
+gibbs_result/similar_result/env_num_16/per_30_iter_200

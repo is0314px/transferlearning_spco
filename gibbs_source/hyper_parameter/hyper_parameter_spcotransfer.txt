@@ -1,0 +1,16 @@
+3 #alpha_v
+0.01 #alpha_n
+0.05 #kappa_0
+10 #nu_0
+10 #gamma
+0.2 #gamma_0
+3.0 #beta
+1.0 #vision_increment
+5000 #name_increment
+300000 #delta_v
+10000 #delta_n
+10.0 #Psi_0 x_init
+10.0 #Psi_0 y_init
+0.5 #Psi_0 sin_init
+0.5 #Psi_0 cos_init
+0.1 #epsilon

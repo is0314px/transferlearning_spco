@@ -1,0 +1,5 @@
+../gibbs_dataset/sigverse/1LDK_8
+../gibbs_dataset/sigverse/2LDK_8
+../gibbs_dataset/sigverse/1LDK_7
+../gibbs_dataset/sigverse/3LDK_1
+../gibbs_dataset/sigverse/2LDK_9

@@ -1,0 +1,17 @@
+../gibbs_dataset/similar/dataset_A/1DK_1
+../gibbs_dataset/similar/dataset_A/1LDK_1
+../gibbs_dataset/similar/dataset_A/2LDK_1
+../gibbs_dataset/similar/dataset_A/3LDK_1
+../gibbs_dataset/similar/dataset_B/1DK_2
+../gibbs_dataset/similar/dataset_B/1LDK_2
+../gibbs_dataset/similar/dataset_B/2LDK_2
+../gibbs_dataset/similar/dataset_B/3LDK_2
+../gibbs_dataset/similar/dataset_C/1DK_3
+../gibbs_dataset/similar/dataset_C/1LDK_3
+../gibbs_dataset/similar/dataset_C/2LDK_3
+../gibbs_dataset/similar/dataset_C/3LDK_3
+../gibbs_dataset/similar/dataset_D/1DK_4
+../gibbs_dataset/similar/dataset_D/1LDK_4
+../gibbs_dataset/similar/dataset_D/2LDK_4
+../gibbs_dataset/similar/dataset_D/3LDK_4
+../gibbs_dataset/similar/dataset_B/1LDK_9
