@@ -1,2 +1,0 @@
-../gibbs_dataset/sigverse_subject/3LDK_1
-../gibbs_dataset/sigverse_subject/3LDK_9

@@ -1,0 +1,8 @@
+Max_x_value_of_map 4.0
+Max_y_value_of_map 4.5
+Min_x_value_of_map -4.0 #-4.0
+Min_y_value_of_map -4.5 #-5.0
+Number_of_place 40
+Initial_data_number 0
+Last_data_number 159
+Environment_name 2LDK_4

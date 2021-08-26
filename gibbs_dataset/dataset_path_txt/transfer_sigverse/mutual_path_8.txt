@@ -1,1 +1,0 @@
-gibbs_result/sigverse_result/env_num_8/per_0_iter_200

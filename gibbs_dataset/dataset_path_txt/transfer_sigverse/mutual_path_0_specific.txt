@@ -1,6 +1,0 @@
-gibbs_result/sigverse_result/env_num_0/per_0_iter_200
-gibbs_result/sigverse_result/env_num_0/per_20_iter_200
-gibbs_result/sigverse_result/env_num_0/per_40_iter_200
-gibbs_result/sigverse_result/env_num_0/per_60_iter_200
-gibbs_result/sigverse_result/env_num_0/per_80_iter_200
-gibbs_result/sigverse_result/env_num_0/per_100_iter_200

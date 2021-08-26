@@ -1,4 +1,0 @@
-../gibbs_dataset/realworld/taniguchi_lab
-../gibbs_dataset/realworld/tsubo_lab
-../gibbs_dataset/realworld/wada_lab
-../gibbs_dataset/realworld/kitano_lab

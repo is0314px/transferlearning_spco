@@ -1,0 +1,1 @@
+gibbs_result/sigverse_result/spcoa/per_0_iter_200

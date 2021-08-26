@@ -1,1 +1,0 @@
-gibbs_result/sigverse_result/spcotransfer20_2/per_0_iter_200

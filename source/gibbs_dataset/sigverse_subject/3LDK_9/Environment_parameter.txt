@@ -1,0 +1,8 @@
+Max_x_value_of_map 6.0
+Max_y_value_of_map 4.75
+Min_x_value_of_map -6.0
+Min_y_value_of_map -4.75
+Number_of_place 40
+Initial_data_number 0
+Last_data_number 359 #299
+Environment_name 3LDK_9

@@ -1,3 +1,0 @@
-../gibbs_dataset/similar/dataset_C/1LDK_3
-../gibbs_dataset/similar/dataset_D/1LDK_4
-../gibbs_dataset/similar/dataset_D/3LDK_9
